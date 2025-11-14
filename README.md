@@ -114,3 +114,6 @@ This diff is used to convert a given project file.
 ## Attribution
 
 This tool is based on the work of [Srivatsn Narayanan](https://github.com/srivatsn) and his [ProjectSimplifier](https://github.com/srivatsn/ProjectSimplifier) project.
+
+
+Updated by Cypress on 2025-11-14T09:24:25.828Z
